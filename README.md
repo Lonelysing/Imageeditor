@@ -4,7 +4,7 @@
 ㅤㅤㅤㅤㅤㅤㅤ  
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kittuthemeo/image_editor)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lonelysing/Imageeditor)
 
 
 
