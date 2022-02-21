@@ -17,7 +17,7 @@
 
 ## Credits
 
-[![LONELYKING](https://img.shields.io/badge/kittuTEAMKARMA-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=green)](https://t.me/SARBUDEEN786)
+[![LONELYKING](https://img.shields.io/badge/💔 Lonelyking 💔-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=green)](https://t.me/SARBUDEEN786)
 
 # ❤️ Support
 <a href="https://t.me/thanimaibots"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
