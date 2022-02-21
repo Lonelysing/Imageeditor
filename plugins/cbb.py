@@ -111,7 +111,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/kittuthemeow/image_editor"
+                        "SOURCE CODE", url="https://github.com/Lonelysing/Imageeditor"
                     )
                 ],
             ]
