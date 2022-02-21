@@ -19,7 +19,7 @@ async def start(client: Client, message: Message):
                     [
                         InlineKeyboardButton(
                             "SOURCE CODE",
-                            url="https://github.com/kittuthemeow/image_editor",
+                            url="https://github.com/Lonelysing/Imageeditor",
                         )
                     ],
                 ]
@@ -45,7 +45,7 @@ async def help(client, message):
                     [
                         InlineKeyboardButton(
                             "SOURCE CODE",
-                            url="https://github.com/kittuthemeow/image_editor",
+                            url="https://github.com/Lonelysing/Imageeditor",
                         )
                     ],
                 ]
@@ -71,7 +71,7 @@ async def about(client, message):
                     [
                         InlineKeyboardButton(
                             "SOURCE CODE",
-                            url="https://github.com/kittuthemeow/image_editor",
+                            url="https://github.com/Lonelysing/Imageeditor",
                         )
                     ],
                 ]
